@@ -5,8 +5,6 @@
 
 # Overview:
 
-*A compilation of 7 AI bots that can be used in online play and are all C2 level or lower.*
-
 This is a somewhat of a "re-release" of [Marl-Burrows](https://github.com/MarlBurroW) project, but he hasn't updated it in a while, nor is there a GitHub page for it anymore. The developer of this bot intended for it to be used in offline play, and strongly advises against online play due to the risk it poses. Which is why I have re-released this as others may want to take the risk themselves. This is an attempt to keep the bot itself public as that was what it was essentially intended for in the first place. I'm not going to sit and condone cheating, but I'm not going to gatekeep or infringe on your right to do what you want with your life which is why I'm leaving a guide and you can do as you wish. I do not take credit for the code itself, just some minor edits to allow it to work with new game patches, as well as purging some of the unneeded spaghetti code that others have added or is no longer needed to bypass certain functions. All bots will eventually outdate and lose their skill. (I.E. Seer was GC but is now Plat.) but if you have a little bit of Python knowledge, it's relatively easy to update/add new bots. I will leave a link to the source code which the amazing developer of this bot has left on an alt account on GitHub should you choose to go that route.
 
 

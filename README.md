@@ -64,3 +64,5 @@ To update offsets, go to the path you downloaded this repository at and delete "
 # Support:
 - https://discord.com/users/1276197937029976095
 - www.instagram.com/runtz1337
+
+This project showcases my slight programming skill (might as well call it skidding), problem-solving abilities, and interest in reverse engineering. It is not an endorsement of any illegal or unethical activities.
